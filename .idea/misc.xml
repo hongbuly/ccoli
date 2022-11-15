@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/toffl/AndroidStudioProjects/School01/app/src/main/res/drawable/baseline_account_circle_24.xml" value="0.11851851851851852" />
+        <entry key="..\:/Users/toffl/AndroidStudioProjects/School01/app/src/main/res/drawable/baseline_shopping_cart_24.xml" value="0.11851851851851852" />
+        <entry key="..\:/Users/toffl/AndroidStudioProjects/School01/app/src/main/res/drawable/corner_grey.xml" value="0.11666666666666667" />
+        <entry key="..\:/Users/toffl/AndroidStudioProjects/School01/app/src/main/res/drawable/item.xml" value="0.1175925925925926" />
+        <entry key="..\:/Users/toffl/AndroidStudioProjects/School01/app/src/main/res/drawable/round_grey.xml" value="0.29010416666666666" />
+        <entry key="..\:/Users/toffl/AndroidStudioProjects/School01/app/src/main/res/drawable/round_purple20.xml" value="0.11666666666666667" />
+        <entry key="..\:/Users/toffl/AndroidStudioProjects/School01/app/src/main/res/drawable/top_round_white.xml" value="0.11666666666666667" />
+        <entry key="..\:/Users/toffl/AndroidStudioProjects/School01/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/toffl/AndroidStudioProjects/School01/app/src/main/res/layout/activity_product.xml" value="0.4" />
+        <entry key="..\:/Users/toffl/AndroidStudioProjects/School01/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/toffl/AndroidStudioProjects/School01/app/src/main/res/layout/activity_user.xml" value="0.26132246376811596" />
+        <entry key="..\:/Users/toffl/AndroidStudioProjects/School01/app/src/main/res/layout/item.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
